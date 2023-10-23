@@ -4,6 +4,4 @@ Esse repositório contêm os arquivos do trabalho prático desenvolvido na disci
 
 Foi desenvolvido diferentes algoritmos, como:
 
-QuickSort e suas variações
-MergeSort
-HeapSort
+QuickSort e suas variações,MergeSort e HeapSort
